@@ -1,0 +1,20 @@
+{
+  "name": "champ-bos-altapi-v13",
+  "version": "3.0.0",
+  "descripton": "Discord Boş Altyapı v13",
+  "main": "champ.js",
+  "scripts": {
+    "start": "node champ.js"
+  },
+  "keywords": [],
+  "author": "champ",
+  "license": "ISC",
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "fs": "^0.0.2",
+    "discord.js": "^13.6.0"
+  }
+}
